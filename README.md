@@ -8,7 +8,7 @@ You can open and run the notebook in Google Colab:
 (TBA).
 
 ## Dataset
-- Collected from Sylhet Diabetes Hospital
+- Collected from Sylhet Diabetes Hospital: https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset 
 - Features include: Age, Gender, Polyuria, Polydipsia, etc.
 
 ## Status
